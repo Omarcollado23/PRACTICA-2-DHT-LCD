@@ -1,4 +1,4 @@
-# Practica ESP32 con DHT22
+# Practica ESP32 con DHT22 Y LCD 16X2 (l2C)
 Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22 con una LCD.
 
 
@@ -86,17 +86,16 @@ void loop() {
 2. Visualizar los datos en el monitor serial.
 3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
 
-4. Datos arrojados en el **LCD**
-![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos1.1.jpg?raw=true)
-![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos%202.jpg?raw=true)    
+
+
 
 
 ## Resultados
 
-Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+Cuando haya funcionado, verás los valores tal como se muestra en la siguentes imagenes.
 
-https://github.com/DiegoJm10/PracticaDHT/raw/main/Libreria%20DHT.png?raw=true
-
+![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos1.1.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos%202.jpg?raw=true) 
 
 ## Evidencias
 
