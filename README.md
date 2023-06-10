@@ -74,17 +74,22 @@ void loop() {
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** y **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
+![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/DHT22%20libreria.jpg?raw=true)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT11** con la **ESP32** y el **LCD** como se muestra en la siguente imagen.
 
-![](https://raw.githubusercontent.com/Omarcollado23/EJEMPLO-READ/88f9cf65517fc8bf9420919d2ef17de71d84d9a3/20201202_185557.jpg)
+![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/conexiones.jpg?raw=true)
 
 ### Instrucciónes de operación
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
+
+4. Datos arrojados en el **LCD**
+![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos1.1.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos%202.jpg?raw=true)    
+
 
 ## Resultados
 
@@ -100,6 +105,6 @@ https://github.com/DiegoJm10/PracticaDHT/raw/main/Libreria%20DHT.png?raw=true
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Ing. Omar Alejandro Collado Carriola
 
 - [GitHub](https://github.com/DiegoJm10)
