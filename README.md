@@ -97,10 +97,6 @@ Cuando haya funcionado, verás los valores tal como se muestra en la siguentes i
 ![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos1.1.jpg?raw=true)
 ![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/datos%202.jpg?raw=true) 
 
-## Evidencias
-
-[Video de Youtube](https://https://wokwi.com/)
-
 
 # Créditos
 
