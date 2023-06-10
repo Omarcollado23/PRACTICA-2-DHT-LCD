@@ -1,4 +1,4 @@
-# Practica ESP32 con DHT11
+# Practica ESP32 con DHT22
 Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22 con una LCD.
 
 
@@ -14,7 +14,7 @@ Para realizar esta practica necesitas lo siguiente
 - [WOKWI](https://https://wokwi.com/)
 - Tarjeta ESP 32
 - Sensor DHT22
--LCD 16X2 (l2C)
+- LCD 16X2 (l2C)
 
 
 
@@ -76,7 +76,7 @@ void loop() {
 
 ![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/DHT22%20libreria.jpg?raw=true)
 
-3. Hacer la conexion de **DHT11** con la **ESP32** y el **LCD** como se muestra en la siguente imagen.
+3. Hacer la conexion de **DHT22** con la **ESP32** y el **LCD** como se muestra en la siguente imagen.
 
 ![](https://github.com/Omarcollado23/PRACTICADHT-LCD/blob/main/conexiones.jpg?raw=true)
 
